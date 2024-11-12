@@ -15,3 +15,7 @@ section{
   display: flex;
   justify-content: center;
 }
+
+.texto-esquerda{
+  margin-right: 5%;
+}
