@@ -66,8 +66,6 @@ footer p a{
 .lista-link a{
   font-size: 20px;
   line-height: 2.0;
-  color: black;
-  background-color: rgb(240, 231, 249);
 }
 
 .lista-link a:hover{
