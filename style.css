@@ -22,7 +22,7 @@ body::before {
   bottom: 0;
   background: url('img/fundo2.jpg') no-repeat center center;
   background-size: cover;
-  opacity: 1.0; /* Controle da opacidade */
+  opacity: 0.8; /* Controle da opacidade */
   z-index: -1;
 }
 
