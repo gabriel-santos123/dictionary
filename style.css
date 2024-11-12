@@ -10,8 +10,19 @@ body{
   line-height: 1.5;
   background-color: #0D2363;
   color: white;
-  background-image: url(img/fundo2.jpg);
-  background-repeat: no-repeat;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url('img/fundo2.jpg') no-repeat center center;
+  background-size: cover;
+  opacity: 0.5; /* Controle da opacidade */
+  z-index: -1;
 }
 
 header{
