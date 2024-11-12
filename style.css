@@ -23,7 +23,7 @@ h2{
   display: flex;
   justify-content: center;
   padding-top: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 .texto-esquerda{
@@ -45,7 +45,3 @@ footer p{
   color: lightgray;
 }
 
-.texto-grande{
-  font-size: 30px;
-  line-height: 2.0;
-}
