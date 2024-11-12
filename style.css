@@ -76,7 +76,7 @@ footer p a{
 
 .lista-link a{
   font-size: 20px;
-  line-height: 2.0;
+  height: 2em;
   color: white;
   text-decoration: none;
 }
