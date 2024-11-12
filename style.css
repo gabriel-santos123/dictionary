@@ -11,6 +11,9 @@ body{
   font-family: "Poppins", serif;
 }
 
+h2{
+  margin-left: 5%;
+}
 .secao_2blocos{
   display: flex;
   justify-content: center;
