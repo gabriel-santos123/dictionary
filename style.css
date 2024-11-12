@@ -52,6 +52,10 @@ h2{
   line-height: 2.0;
 }
 
+.texto-direita{
+  margin-left: 5%;
+  line-height: 2.0;
+}
 footer{
   text-align: center;
   font-size: 12px;
