@@ -10,3 +10,8 @@
 body{
   font-family: "Poppins", serif;
 }
+
+section{
+  display: flex;
+  justify-content: center;
+}
