@@ -34,10 +34,13 @@ footer{
   position:fixed;
   bottom: 0;
   background-color: black;
-  color: lightgray;
   width: 100%;
   padding-top: 30px;
   padding-bottom: 20px;
+}
+
+footer p{
+  color: lightgray;
 }
 
 .texto-grande{
