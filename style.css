@@ -10,6 +10,8 @@
 body{
   font-family: "Poppins", serif;
   line-height: 1.5;
+  background-color: #0D2363;
+  color: white;
 }
 
 h1{
@@ -36,7 +38,7 @@ footer{
   font-size: 12px;
   position:fixed;
   bottom: 0;
-  background-color: black;
+  background-color: #06102c;
   width: 100%;
   padding-top: 30px;
   padding-bottom: 20px;
@@ -58,7 +60,7 @@ footer p a{
   font-size: 20px;
   line-height: 2.0;
   color: black;
-  background-color: blueviolet;
+  background-color: rgb(240, 231, 249);
 }
 
 .lista-link a:hover{
