@@ -14,6 +14,13 @@ body{
   color: white;
 }
 
+header{
+  padding-top: 40px;
+  padding-bottom: 30px;
+  background-color: #D9183B;
+  color:  #06102c;
+}
+
 h1{
   text-align: center;
 }
