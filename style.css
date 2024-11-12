@@ -51,13 +51,14 @@ footer p a{
 }
 
 .lista-link-items{
-  background-color: blueviolet;
+
 }
 
 .lista-link a{
   font-size: 20px;
   line-height: 2.0;
   color: black;
+  background-color: blueviolet;
 }
 
 .lista-link a:hover{
