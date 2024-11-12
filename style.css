@@ -13,6 +13,7 @@ body{
 }
 
 body::before {
+  /*  Esse seletor é usado para adicionar a imagem de fundo com opacidade. Ele cobre toda a página e fica atrás do conteúdo, sem afetar a opacidade do texto. */
   content: "";
   position: absolute;
   top: 0;
@@ -21,7 +22,7 @@ body::before {
   bottom: 0;
   background: url('img/fundo2.jpg') no-repeat center center;
   background-size: cover;
-  opacity: 0.5; /* Controle da opacidade */
+  opacity: 1.0; /* Controle da opacidade */
   z-index: -1;
 }
 
