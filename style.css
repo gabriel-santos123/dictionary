@@ -21,7 +21,7 @@ body::before {
   right: 0;
   bottom: 0;
   background: url('img/fundo2.jpg') no-repeat center center;
-  background-size: cover;
+  background-size: cover; /*Garante que a imagem de fundo cubra toda a área da página*/
   opacity: 0.2; /* Controle da opacidade */
   z-index: -1;
 }
@@ -68,14 +68,14 @@ footer p a{
 }
 
 .lista-link{
-  margin: 5%;
+  /* margin: 5%; */
   text-decoration: none;
   list-style-type: none;
 }
 
 
 .lista-link a{
-  font-size: 22px;
+  font-size: 20px;
   line-height: 2.0;
   color: white;
 
