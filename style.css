@@ -12,6 +12,8 @@ body{
   line-height: 1.5;
   background-color: #0D2363;
   color: white;
+  background-image: url(img/fundo2.jpg);
+  opacity: 1%;
 }
 
 header{
@@ -67,7 +69,7 @@ footer p a{
 }
 
 .lista-link a:hover{
-  background-color: aquamarine;
-  border-radius: 5px blue;
+  background-color: #D9183B;
+  color: white;
 }
 
