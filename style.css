@@ -45,10 +45,19 @@ footer p a{
   color: lightgray;
 }
 
-ul a{
+.lista-link{
+  margin-right: 5%;
+}
+
+
+.lista-link a{
   font-size: 20px;
   line-height: 2.0;
   color: black;
-  border-radius: 5px blue;
-
 }
+
+.lista-link a:hover{
+  background-color: aquamarine;
+  border-radius: 5px blue;
+}
+
