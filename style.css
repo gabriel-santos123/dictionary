@@ -11,11 +11,15 @@ body{
   font-family: "Poppins", serif;
 }
 
-section{
+.secao1{
   display: flex;
   justify-content: center;
 }
 
 .texto-esquerda{
   margin-right: 5%;
+}
+
+.secao2{
+  
 }
