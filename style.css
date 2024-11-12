@@ -40,11 +40,13 @@ h1{
 h2{
   margin-left: 5%;
 }
+
 .secao_2blocos{
   display: flex;
   justify-content: center;
   padding-top: 20px;
   padding-bottom: 40px;
+  align-items: center;
 }
 
 .texto-esquerda{
