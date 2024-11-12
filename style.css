@@ -50,6 +50,9 @@ footer p a{
   margin-right: 5%;
 }
 
+.lista-link-items{
+  background-color: blueviolet;
+}
 
 .lista-link a{
   font-size: 20px;
